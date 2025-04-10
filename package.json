@@ -1,0 +1,24 @@
+{
+  "name": "webapiexample",
+  "version": "1.0.0",
+  "description": "Esta es una web Api de ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LunaCabrera0414/webApiExample.git"
+  },
+  "keywords": [
+    "web",
+    "api",
+    "ejemplo"
+  ],
+  "author": "Luna Cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LunaCabrera0414/webApiExample/issues"
+  },
+  "homepage": "https://github.com/LunaCabrera0414/webApiExample#readme"
+}
